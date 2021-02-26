@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url(/assets/fonts/LatoLatin-Regular.woff2);
+}
+@font-face {
+  font-family: Lato GOG Latin Semibold;
+  src: url(/assets/fonts/LatoLatin-Semibold.woff2);
+}
+
+body {
+  font-family: "Lato GOG Latin Semibold";
+  background-color: #d8d8d8;
+}
+
+nav {
+  background-color: #2c2c2c;
+  color: #cccccc;
+}
+
+.nav-icons {
+  width: 20px;
+  height: 20px;
+  color: #cccccc;
+}
+
+.carousel-cell img {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.carousel-cell {
+  text-align: center;
+  width: 100%;
+}
+
+.column img {
+  width: 100%;
+}
+
+hr {
+  background-color: #9b9b9b;
+  height: 1px;
+}
+
+.sale {
+  filter: contrast(20);
+}

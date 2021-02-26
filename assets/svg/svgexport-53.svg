@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="icon-wrapper-icon" width="18"  height="18" ><defs><symbol viewBox="0 0 18 18" id="icon-star">
+    <defs>
+        <polygon id="icon-star_path-1" points="9 14.9252329 3.4376941 18 4.5 11.4875388 8.94839758e-14 6.8753882 6.21884705 5.92523292 9 0 11.7811529 5.92523292 18 6.8753882 13.5 11.4875388 14.5623059 18"></polygon>
+    </defs>
+    <g stroke="none" stroke-width="1" fill-rule="evenodd">
+        <mask id="icon-star_mask-2" fill="white">
+            <use xlink:href="#icon-star_path-1"></use>
+        </mask>
+        <use xlink:href="#icon-star_path-1"></use>
+    </g>
+</symbol></defs><use xlink:href="#icon-star" fill="#404040"></use></svg>

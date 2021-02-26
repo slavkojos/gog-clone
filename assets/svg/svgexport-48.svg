@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="tooltip-icon-wrapper--icon " width="32"  height="32" ><defs><symbol viewBox="0 0 32 32" id="icon-curated">
+    <g id="icon-curated_icon2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,11 L11,14 L8,14 C6.34314575,14 5,15.3431458 5,17 L5,21 C5,22.6568542 6.34314575,24 8,24 L24,24 C25.6568542,24 27,22.6568542 27,21 L27,17 C27,15.3431458 25.6568542,14 24,14 L21,14 L21,11 C21,9.34314575 19.6568542,8 18,8 L14,8 C12.3431458,8 11,9.34314575 11,11 Z" id="icon-curated_Combined-Shape" stroke="#86328A" stroke-width="2"></path>
+        <path d="M16,12 L16,13.9367299" id="icon-curated_Path-3" stroke="#86328A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</symbol></defs><use xlink:href="#icon-curated" stroke="#86328A" fill="none" stroke-width="2px"></use></svg>

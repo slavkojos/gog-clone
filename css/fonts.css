@@ -1,0 +1,63 @@
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Semibold.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Semibold.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Semibold.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Semibold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Bold.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Bold.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Bold.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Heavy.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Heavy.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Heavy.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Heavy.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face {
+  font-family: Lato GOG;
+  src: url("/bundles/gogwebsitecommon/fonts/lato/Lato-Regular.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/lato/Lato-Regular.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/lato/Lato-Regular.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/lato/Lato-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Light.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Light.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Light.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Regular.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Regular.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Regular.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: Lato GOG Latin;
+  src: url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Medium.eot?#iefix") format("embedded-opentype"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Medium.woff2") format("woff2"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Medium.woff") format("woff"),
+    url("/bundles/gogwebsitecommon/fonts/latoLatin/LatoLatin-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}

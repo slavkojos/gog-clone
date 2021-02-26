@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="tooltip-icon-wrapper--icon " width="32"  height="32" ><defs><symbol viewBox="0 0 32 32" id="icon-padlock">
+    <g id="icon-padlock_icon1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="icon-padlock_Rectangle-3-Copy" stroke="#86328A" stroke-width="2" x="8" y="13" width="16" height="14" rx="7"></rect>
+        <circle id="icon-padlock_Oval" stroke="#86328A" stroke-width="2" cx="16" cy="19" r="2"></circle>
+        <path d="M11.0142341,14.1204027 L11.0142341,9.00757707 C11.0142341,6.79843807 12.8050951,5.00757707 15.0142341,5.00757707 L17.0228915,5.00757707 C19.2277005,5.00757707 21.0150513,6.7949279 21.0150513,8.99973688" id="icon-padlock_Path-2" stroke="#86328A" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M16.036648,21.0523254 L16.036648,22.9890552" id="icon-padlock_Path-3" stroke="#86328A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</symbol></defs><use xlink:href="#icon-padlock" stroke="#86328A" fill="none" stroke-width="2px"></use></svg>

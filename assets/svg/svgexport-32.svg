@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="product-tile__label-icon" width="10"  height="10" ><defs><symbol viewBox="0 0 10 10" id="in-library">
+    <g id="in-library_Symbols" stroke="none" stroke-width="1">
+        <g id="in-library_ribbon-/-6.-in-library" transform="translate(-16.000000, -6.000000)">
+            <path d="M21,11.5454545 L19.1818182,9.63636364 L17.8181818,11.0909091 L21,14.3636364 L26,7.72727273 C26,7.72727273 26,7.72727273 26,7.81818182 L26,14.1818182 C26,15.1818182 25.1818182,16 24.1818182,16 L17.8181818,16 C16.8181818,16 16,15.1818182 16,14.1818182 L16,7.81818182 C16,6.81818182 16.8181818,6 17.8181818,6 L24.1818182,6 C24.5454545,6 24.8181818,6.09090909 25.0909091,6.27272727 L21,11.5454545 Z" id="in-library_icon_in-library"></path>
+        </g>
+    </g>
+</symbol></defs><use xlink:href="#in-library" fill-opacity="0.5" fill="#FFFFFF"></use></svg>
